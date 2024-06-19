@@ -1,0 +1,1 @@
+static void MX_UART5_Init(void);
