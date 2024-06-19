@@ -1,0 +1,1 @@
+static void MX_CAN2_Init(void);

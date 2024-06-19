@@ -1,0 +1,1 @@
+void can_filter_config(void);
