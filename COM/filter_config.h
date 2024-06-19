@@ -1,1 +1,0 @@
-void filter_config(void);
